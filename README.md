@@ -5,8 +5,8 @@ this is a random chrismas site where if u press a button, santa will hate u and 
 https://www.youtube.com/watch?v=LLFhKaqnWwk
 
 Planning ball:
-- video 
-- heading
-- footer
-- main content
-- Navbar
+[] NavBar
+[] Heading
+[] main content
+[]j footer
+
